@@ -1,0 +1,11 @@
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\bin\Debug\hesapmak,2.exe.config
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\bin\Debug\hesapmak,2.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\bin\Debug\hesapmak,2.pdb
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak_2.Properties.Resources.resources
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.exe
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak,2.pdb
+C:\Users\ilker\Desktop\SmartPro\Ödevler----\hesapmak,2\obj\Debug\hesapmak_2.Hesap_Makinası.resources
