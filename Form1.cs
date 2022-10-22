@@ -33,9 +33,9 @@ namespace hesapmak_2
         private void opera(object sender, EventArgs e)
         {
             degi1 = true;
-            string neval = (sender as Button).Text;
+            string first = (sender as Button).Text;
             metot();
-            operat = neval;
+            operat = first;
             label1.Text = " " + sayim.ToString() + " " + operat + " ";
             textBox1.Clear();
         }
